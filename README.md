@@ -22,6 +22,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=eddymandran)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddymandran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
