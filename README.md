@@ -27,6 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddymandran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 <p align="center">
 <a href="https://codepen.io/eddymandran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eddymandran" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/eddymandran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eddymandran" height="30" width="30" /></a>
