@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eddy</h1>
+
+<img align="center" src="./img/cover.svg" alt="html5" /> 
 
 <h2 align="center">I'm learning to become a ReactJS/NodeJS Developer ~ Currently a wild student @WildCodeSchool</h2>
 
