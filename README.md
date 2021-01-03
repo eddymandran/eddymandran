@@ -1,5 +1,5 @@
 
-<img align="center" src="./img/cover.svg" alt="html5" /> 
+<img align="center" src="./img/cover.png" alt="html5" /> 
 
 <h2 align="center">I'm learning to become a ReactJS/NodeJS Developer ~ Currently a wild student @WildCodeSchool</h2>
 
