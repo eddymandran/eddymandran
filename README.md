@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React, VueJs, NodeJS, ExpressJS, Symphony**
 
 - 🤝 I’m looking for tips on **how to become web developper**
-- 
+
 - 🔍 I am looking for a **professionalization contract for a period of 1 year from April 12, 2021**
 
 - 👨‍🦱 💻 All of my projects will be available soon
