@@ -1,17 +1,17 @@
 
 <img align="center" src="./img/cover.png" alt="html5" /> 
 
-<h2 align="center">I'm learning to become a ReactJS/NodeJS Developer ~ Currently a wild student @WildCodeSchool</h2>
+<h2 align="center">I'm learning to become a ReactJS/NodeJS Developer ~ Currently a student @2iTechAcademy</h2>
 
 - 🌍 I’m from **Lyon (FRANCE)**
 
 - 🌱 I’m currently learning **React, VueJs, NodeJS, ExpressJS, Symphony**
 
-- 🤝 I’m looking for tips on **how to become web developper**
+- 🤝 I’m looking for tips on **how to become a better web developper**
 
-- 🔍 I am looking for a **professionalization contract for a period of 1 year from April 12, 2021 or a first job. Full remote is possible.**
+- 🔍 I am looking for a **professionalization contract for a period of 2 year from  september, 2021. Full remote is possible.**
 
-- 👨‍🦱 💻 All of my projects will be available soon
+- 👨💻 All of my projects will be available soon
 
 - 💬 Let's talk about **web development, JavaScript, design, UI/UX and more...**
 
