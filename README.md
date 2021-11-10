@@ -25,6 +25,9 @@
 <img src="./img/Node-JS.svg" alt="nodejs" height="60"/> 
 <img src="./img/expressjs.svg" alt="express"  height="60"/>
 <img src="./img/Git.svg" alt="git" height="60"/> 
+<img src="./img/Java.svg" alt="java" height="50"/> 
+<img src="./img/docker.svg" alt="docker" height="50"/> 
+<img src="./img/MongoDB.svg" alt="MongoDB" height="50"/> 
 
 <h3> Some stats 😉: </h3> 
 <span align="center">
