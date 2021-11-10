@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, MongoDb, Docker, Kubernetes, Kotlin**
 
-- 🤝 I’m looking for tips on **how to become a better web developper**
+- 🤝 I’m looking for tips on **how to become a better developper**
 
 <!-- - 🔍 I am looking for a **professionalization contract for a period of 2 year from  september, 2021. Full remote is possible.** -->
 
