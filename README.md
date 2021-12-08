@@ -17,23 +17,11 @@
 
 - 📫 How to reach me **dev.eddy.mandran@gmail.com**
 
-<p align="center">
-<img src="./img/HTML-5.svg" alt="html5" width="60" height="60"/> 
-<img src="./img/CSS-3.svg" alt="css3" width="60" height="60"/>
-<img src="./img/JavaScript.svg" alt="javascript" width="60" height="60"/> 
-<img src="./img/reactjs.svg" alt="react" />
-<img src="./img/Node-JS.svg" alt="nodejs" height="60"/> 
-<img src="./img/expressjs.svg" alt="express"  height="60"/>
-<img src="./img/Git.svg" alt="git" height="60"/> 
-<img src="./img/Java.svg" alt="java" height="50"/> 
-<img src="./img/docker.svg" alt="docker" height="50"/> 
-<img src="./img/MongoDB.svg" alt="MongoDB" height="50"/> 
 
 <h3> Some stats 😉: </h3> 
 <span align="center">
-
+  
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=eddymandran)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddymandran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </span>
