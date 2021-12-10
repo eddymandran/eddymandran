@@ -5,15 +5,15 @@
 
 - 🌍 I’m from **Lyon (FRANCE)**
 
-- 🌱 I’m currently learning **Java, MongoDb, Docker, Kubernetes, Kotlin**
+- 🌱 I’m currently learning **Java, MongoDb, Laravel, React Native**
 
 - 🤝 I’m looking for tips on **how to become a better developper**
 
 <!-- - 🔍 I am looking for a **professionalization contract for a period of 2 year from  september, 2021. Full remote is possible.** -->
 
-- 👨💻 All of my projects will be available soon
+- 👨💻 All of my projects are available on github
 
-- 💬 Let's talk about **web development, Java, design, UI/UX and more...**
+- 💬 Let's talk about **development, Java, design, UI/UX and more...**
 
 - 📫 How to reach me **dev.eddy.mandran@gmail.com**
 
