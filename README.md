@@ -5,13 +5,13 @@
 
 - 🌍 I’m from **Lyon (FRANCE)**
 
-- 🌱 I’m currently learning **Java, MongoDb, Laravel, React Native**
+- 🌱 I’m currently learning **Java, Laravel, React Native**
 
 - 🤝 I’m looking for tips on **how to become a better developper**
 
 <!-- - 🔍 I am looking for a **professionalization contract for a period of 2 year from  september, 2021. Full remote is possible.** -->
 
-- 👨💻 All of my projects are available on github
+- 👨💻 All of my projects are available on github. You can see my portfolio on [eddymandran.fr](https://eddymandran.fr)
 
 - 💬 Let's talk about **development, Java, design, UI/UX and more...**
 
