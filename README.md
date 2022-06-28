@@ -21,8 +21,9 @@
 <h3> Some stats 😉: </h3> 
 <span align="center">
   
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=eddymandran)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=eddymandran&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddymandran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![EddyMandran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EddyMdn)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </span>
 
