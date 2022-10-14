@@ -11,7 +11,7 @@
 
 <!-- - 🔍 I am looking for a **professionalization contract for a period of 2 year from  september, 2021. Full remote is possible.** -->
 
-- 👨💻 All of my projects are available on github. You can see my portfolio on [eddymandran.fr](https://eddymandran.fr)
+- 👨💻 All of my projects are available on github.
 
 - 💬 Let's talk about **development, Java, design, UI/UX and more...**
 
